@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R betty:my_first_directory *
+chown -hR vincent:staff . 
